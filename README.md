@@ -26,6 +26,8 @@ This project demonstrates how SQL can be used to analyze and detect fraudulent c
 
 
 Dataset
+
 The dataset used for this project is too large to be stored directly in this repository. Please download the dataset from the following reliable sources:
 
-1. [Kaggle - Credit Card Fraud Detection Dataset]((https://www.kaggle.com/datasets/kartik2112/fraud-detection))
+1. [Kaggle - Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+
