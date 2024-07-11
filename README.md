@@ -25,3 +25,7 @@ Conclusion
 This project demonstrates how SQL can be used to analyze and detect fraudulent credit card transactions. The insights gained from this analysis can help financial institutions enhance their fraud detection systems.
 
 
+Dataset
+The dataset used for this project is too large to be stored directly in this repository. Please download the dataset from the following reliable sources:
+
+1. [Kaggle - Credit Card Fraud Detection Dataset]((https://www.kaggle.com/datasets/kartik2112/fraud-detection))
